@@ -1,5 +1,6 @@
 # PIYUSH_KUMAR-10964-PFC-PROJECT
 📘 Project Report: Marks Grading and Total Calculation System
+
 🔹 Project Details
 The Marks Grading and Total Calculation System is a C‑language based console application that allows users to enter marks for multiple subjects, calculates the total marks obtained, derives the percentage, and assigns a grade based on predefined criteria. The program also provides motivational feedback to encourage students depending on their performance.
 This project was developed with the aim of combining basic programming concepts such as arrays, loops, conditional statements, and input validation into a single practical application. It demonstrates how programming can be applied to solve real‑life problems in education, where evaluation and grading are essential.
@@ -38,4 +39,5 @@ The system ensures that invalid inputs (like marks greater than 100 or less than
 - Writing clean and structured code with step‑by‑step logic.
 - The value of adding user‑friendly messages to make programs interactive.
 - How small projects can be extended into bigger systems with enhancements.
+  
   ![image alt](https://github.com/piyushgupta389/PIYUSH_KUMAR-10964-PFC-PROJECT/blob/0e370e462a8d64888625f826c15fbaaff7fd5d8a/Screenshot%202026-01-05%20161120.png)
