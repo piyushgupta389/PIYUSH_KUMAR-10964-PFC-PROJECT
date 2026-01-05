@@ -24,4 +24,4 @@ The Marks Grading and Total Calculation System is a simple C‑language program 
 - Advanced Features: Add ranking system, subject‑wise analysis, and performance charts.
 - Mobile App: Develop an Android/iOS app for students to check grades instantly.
 - AI Feedback: Integrate AI to give personalized study tips based on weak subjects.
-  ![image alt](https://github.com/piyushgupta389/PIYUSH_KUMAR-10964-PFC-PROJECT/blob/ae41b8e1c18f6f0684e8dd3be01f3eb3ea1cb812/Screenshot%202026-01-05%20161120.png)
+  ![image alt](https://github.com/piyushgupta389/PIYUSH_KUMAR-10964-PFC-PROJECT/blob/0e370e462a8d64888625f826c15fbaaff7fd5d8a/Screenshot%202026-01-05%20161120.png)
